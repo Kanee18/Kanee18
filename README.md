@@ -14,12 +14,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHIyb25ydHg1eWZzZHVpZ2UwMTFrNXN5aHc3MG8zYXhwdnJoczlodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ftZ8Smav6dMPe3e99W/giphy.gif" />
+
 ###
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kanee&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<img align="right" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHIyb25ydHg1eWZzZHVpZ2UwMTFrNXN5aHc3MG8zYXhwdnJoczlodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ftZ8Smav6dMPe3e99W/giphy.gif" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kanee18&icon=0&color=0)](https://visitcount.itsvg.in)
